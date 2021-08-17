@@ -152,7 +152,6 @@ DocStringExtensions = "0.8"
 FunctionWrappers = "1"
 MuladdMacro = "0.2.1-0.2"
 Parameters = "0.12"
-RecursiveFactorization = "0.1"
 
 ["6.5-6.10"]
 RecursiveArrayTools = "1"
@@ -180,6 +179,9 @@ TreeViews = "0.3"
 
 ["6.5-6.7"]
 Requires = "0.5"
+
+["6.5-6.71.0"]
+RecursiveFactorization = "0.1"
 
 ["6.50-6"]
 StaticArrays = ["0.11-0.12", "1"]
@@ -220,7 +222,7 @@ SciMLBase = "1.13.0-1"
 ["6.61-6"]
 FastBroadcast = "0.1.4-0.1"
 
-["6.63-6"]
+["6.63-6.68"]
 ChainRulesCore = "0.4-0.10"
 
 ["6.65"]
@@ -232,8 +234,23 @@ julia = "1.5.0-1"
 ["6.67-6"]
 julia = "1.6.0-1"
 
+["6.69"]
+ChainRulesCore = ["0.4-0.10", "1"]
+
 ["6.7-6.24"]
 ArrayInterface = "1.1.0-2"
+
+["6.70-6"]
+ChainRulesCore = ["0.10", "1"]
+
+["6.71-6"]
+Distributions = "0.25"
+ForwardDiff = "0.10"
+PreallocationTools = "0.1"
+
+["6.71.1-6"]
+DEDataArrays = "0.2"
+RecursiveFactorization = "0.2"
 
 ["6.8-6"]
 Requires = ["0.5", "1"]

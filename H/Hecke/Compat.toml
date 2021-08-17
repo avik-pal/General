@@ -9,9 +9,26 @@ julia = "1"
 AbstractAlgebra = "0.15.1-0.15"
 Nemo = "0.22"
 
-["0.10.10-0"]
+["0.10.10-0.10.11"]
 AbstractAlgebra = "0.18"
 Nemo = "0.24"
+
+["0.10.12"]
+AbstractAlgebra = "0.19"
+Nemo = "0.25"
+
+["0.10.13-0.10.14"]
+AbstractAlgebra = "0.20"
+
+["0.10.13-0.10.15"]
+Nemo = "0.25.1-0.25"
+
+["0.10.15"]
+AbstractAlgebra = "0.20.1-0.20"
+
+["0.10.16-0"]
+AbstractAlgebra = "0.21"
+Nemo = "0.26.1-0.26"
 
 ["0.10.3-0.10.5"]
 AbstractAlgebra = "0.16"
