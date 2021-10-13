@@ -287,6 +287,7 @@ some amount of consideration when choosing package names.
 0a452357-00e2-49ec-9da5-12084d27edbc = { name = "Paraml", path = "P/Paraml" }
 0a46da34-8e4b-519e-b418-48813639ff34 = { name = "CSDP", path = "C/CSDP" }
 0a4f8689-d25c-4efe-a92b-7142dfc1aa53 = { name = "MathTeXEngine", path = "M/MathTeXEngine" }
+0a602bbd-b08b-5d75-8d32-0de6eef44785 = { name = "HYPRE_jll", path = "H/HYPRE_jll" }
 0a755509-c5b1-5d6f-9b24-59bcda3c37a3 = { name = "ProximalBase", path = "P/ProximalBase" }
 0a7d185b-be57-59df-ac21-86d8a1799c2e = { name = "JuliaPetra", path = "J/JuliaPetra" }
 0a7fc590-1c99-4bf9-b5a7-8c116fa99d16 = { name = "Qaintellect", path = "Q/Qaintellect" }
@@ -1621,6 +1622,7 @@ some amount of consideration when choosing package names.
 3d58aee0-59b1-4d68-b4d3-acbeec332be7 = { name = "CopEnt", path = "C/CopEnt" }
 3d5d7239-16b4-4651-96ed-9e800c796499 = { name = "VMLinuxBindings", path = "V/VMLinuxBindings" }
 3d5dd08c-fd9d-11e8-17fa-ed2836048c2f = { name = "VectorizationBase", path = "V/VectorizationBase" }
+3d704607-676d-54ad-a58f-27926b53472b = { name = "Unishox_jll", path = "U/Unishox_jll" }
 3d72adc0-63d3-4141-bf9b-84450dd0395b = { name = "AdaptiveResonance", path = "A/AdaptiveResonance" }
 3d876f86-fca9-45cb-9864-7207416dc431 = { name = "TableScraper", path = "T/TableScraper" }
 3da002f7-5984-5a60-b8a6-cbb66c0b333f = { name = "ColorTypes", path = "C/ColorTypes" }
@@ -1731,6 +1733,7 @@ some amount of consideration when choosing package names.
 4239201d-c60e-5e0a-9702-85d713665ba7 = { name = "ThreadSafeDicts", path = "T/ThreadSafeDicts" }
 42433972-eea5-42bb-ab72-392315b4e8df = { name = "Langevin", path = "L/Langevin" }
 42462c39-edde-4cdc-9c73-a9d3181f44a6 = { name = "LSPNeovim", path = "L/LSPNeovim" }
+4249f315-58d4-4c46-b324-3577fc7dfca0 = { name = "ModuleElts", path = "M/ModuleElts" }
 424e878d-f74a-44ed-9ae4-e4144b72a8ff = { name = "Fourier", path = "F/Fourier" }
 4259d249-1051-49fa-8328-3f8ab9391c33 = { name = "Petri", path = "P/Petri" }
 42699a24-3520-5f41-a549-6a478ed667c2 = { name = "Serd", path = "S/Serd" }
@@ -3022,6 +3025,7 @@ some amount of consideration when choosing package names.
 758a1c58-1ae5-4273-bf23-de2a3f195520 = { name = "Minesweeper", path = "M/Minesweeper" }
 759b0772-debe-4df1-a45f-0e53fcd0f49c = { name = "GeneralizedSDistributions", path = "G/GeneralizedSDistributions" }
 75a07032-1394-4a60-8011-bf81691479e2 = { name = "System", path = "S/System" }
+75a5deae-e917-4509-af32-a989148c8d5f = { name = "SweepContractor", path = "S/SweepContractor" }
 75b11117-7252-40c0-b375-554c734de600 = { name = "AntColony", path = "A/AntColony" }
 75b8dd0a-07b1-5bf5-8859-e3022e43e992 = { name = "CUDNN_CUDA92_jll", path = "C/CUDNN_CUDA92_jll" }
 75c7ada1-017a-5fb6-b8c7-2125ff2d6c93 = { name = "DBFTables", path = "D/DBFTables" }
