@@ -10,10 +10,10 @@ jobs:
     if: ${{ (github.event.label.name == 'BREAKING' || github.event.label.name == 'zulip test') && github.repository == github.event.pull_request.head.repo.full_name }}
     runs-on: ubuntu-latest
     steps:
-    - uses: julia-actions/setup-julia@5c9647d97b78a5debe5164e9eec09d653d29bd71 # v2.6.1
+    - uses: julia-actions/setup-julia@fa02766e078afaaf09b14210362cee14137e6a32 # v3.0.2
       with:
         version: 1.6.2
-    - uses: actions/checkout@1af3b93b6815bc44a9784bd300feb67ff0d1eeb3 # v6.0.0
+    - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
     - name: Collect Zulip info
       id: zulip
       shell: julia --color=yes {0}
@@ -31,7 +31,7 @@ jobs:
         PR_NUMBER: ${{ github.event.number }}
         PR_BODY: ${{ github.event.pull_request.body }}
     - name: Update Zulip feed
-      uses: zulip/github-actions-zulip/send-message@e4c8f27c732ba9bd98ac6be0583096dea82feea5 # v1.0.2
+      uses: zulip/github-actions-zulip/send-message@f675f2b4eb2a95fae974215476dcb7ad8dfeff6b # v2.0.2
       with:
         api-key: ${{ secrets.ZULIP_API_KEY }}
         email: 'general-registry-announcer-bot@julialang.zulipchat.com'

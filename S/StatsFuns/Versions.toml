@@ -102,3 +102,21 @@ git-tree-sha1 = "1ec049c79e13fb2638ddbf8793ab2cbbeb266f45"
 
 ["1.5.2"]
 git-tree-sha1 = "91f091a8716a6bb38417a6e6f274602a19aaa685"
+
+["1.5.3"]
+git-tree-sha1 = "0aa97471d55945556e8d2859568b8317cef98351"
+
+["2.0.0"]
+git-tree-sha1 = "529262053ef3b54f43f2f9114ea873f7c869985e"
+
+["2.0.1"]
+git-tree-sha1 = "64a7f03e6bbcc23ee1c2567a9e6eb4e0d83d0285"
+
+["2.1.0"]
+git-tree-sha1 = "3f4e1d24289cd974e089c617b1472311a2b1feab"
+
+["2.2.0"]
+git-tree-sha1 = "770240df9a3b8888065046948f7a09b4e0f997d5"
+
+["2.2.1"]
+git-tree-sha1 = "91a5737baed20ee31f3faea0e51f57461f6a689e"

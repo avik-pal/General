@@ -1,4 +1,4 @@
-["5.15 - 7"]
+["5.15 - 7.37"]
 PreallocationTools = "d236fae5-4411-538c-8e31-a6e3d9e00b46"
 
 ["5.15.1 - 5.16"]
@@ -16,7 +16,7 @@ SymPy = "24249f21-da20-56a4-8eb1-6a02cf4ae2e6"
 ["6.1 - 7"]
 ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
 
-["6.11 - 7"]
+["6.11 - 7.21"]
 Lux = "b2108857-7c20-44ae-9111-449ecde12c47"
 
 ["6.3 - 7"]
@@ -32,3 +32,9 @@ SymPyPythonCall = "bc8888f7-b21e-4b7c-a06a-5d9c9496438c"
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
 LaTeXStrings = "b964fa9f-0449-5b57-a5c2-d3ea65f4040f"
 Latexify = "23fbe1c1-3f47-55db-b15f-69d7ec21a316"
+
+["7.10 - 7"]
+HypergeometricFunctions = "34004b35-14d8-5ef3-9330-4cdb6864b03a"
+
+["7.39 - 7"]
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"

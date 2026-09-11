@@ -1,33 +1,35 @@
 [0]
-MacroTools = "0.5.5-0.5"
-Reexport = "1"
 RuntimeGeneratedFunctions = "0.5"
 
-["0-0.1"]
+["0 - 0.1"]
 AbstractAlgebra = "0.19-0.23"
 
-["0-0.1.0"]
+["0 - 0.1.0"]
 Catalyst = "9"
 DiffEqBase = "6.54.0-6"
 ModelingToolkit = "6.3.0-6"
 
-["0-0.2"]
+["0 - 0.2"]
 julia = "1.5.0-1"
 
-["0.1.1-0.1"]
+["0 - 0.3.2"]
+MacroTools = "0.5.5-0.5"
+Reexport = "1"
+
+["0.1.1 - 0.1"]
 ModelingToolkit = "6.3-8.5"
 
-["0.1.1-0.2.0"]
+["0.1.1 - 0.2.0"]
 Catalyst = "9-10"
 DiffEqBase = "6.54-6.81"
 
-["0.2.1-0"]
-DiffEqBase = "6"
-
-["0.2.1-0.2"]
+["0.2.1 - 0.2"]
 Catalyst = "9-12"
 
-["0.3-0.3.1"]
+["0.2.1 - 0.3.2"]
+DiffEqBase = "6"
+
+["0.3 - 0.3.1"]
 julia = "1.6.0-1"
 
 ["0.3.0"]
@@ -36,6 +38,47 @@ Catalyst = "13"
 ["0.3.1"]
 Catalyst = "13-14"
 
-["0.3.2-0"]
-Catalyst = "15"
+["0.3.2"]
 julia = "1.10.0-1"
+
+["0.3.2 - 0.3.4"]
+Catalyst = "15"
+
+["0.3.3"]
+DiffEqBase = "6 - 7"
+
+["0.3.3 - 0"]
+julia = "1.10.0 - 1"
+
+["0.3.3 - 0.3"]
+MacroTools = "0.5.5 - 0.5"
+Reexport = "1.2.2 - 1"
+
+["0.3.4 - 0.3"]
+DiffEqBase = "6.165.0 - 7"
+
+["0.3.5 - 0"]
+SparseArrays = "1"
+
+["0.3.5 - 0.3"]
+Catalyst = ["15", "16.2.0 - 16"]
+
+["0.3.6 - 0.3"]
+ModelingToolkit = "9 - 11"
+
+["0.4 - 0"]
+Catalyst = "16.2.0 - 16"
+ModelingToolkitBase = "1.17.0 - 1"
+SymbolicIndexingInterface = "0.3.43 - 0.3"
+SymbolicUtils = "4.18.0 - 4"
+Symbolics = "7.13.0 - 7"
+
+["0.4 - 0.4.1"]
+SciMLBase = "2.144.0 - 3"
+
+["0.4.2 - 0"]
+PrecompileTools = "1.2.1 - 1"
+SciMLBase = "3"
+
+["0.4.3 - 0"]
+CommonSolve = "0.2.4 - 0.2"

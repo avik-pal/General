@@ -44,15 +44,15 @@ GeometricEquations = "0.8"
 ["0.11.2 - 0.11"]
 GeometricEquations = "0.9"
 
-["0.11.4 - 0"]
-RungeKutta = "0.5"
-
 ["0.11.4 - 0.11"]
 Aqua = "0.5-0.6"
 SimpleSolvers = "0.2.0"
 
 ["0.11.4 - 0.15.3"]
 PrettyTables = "2"
+
+["0.11.4 - 0.16.8"]
+RungeKutta = "0.5"
 
 ["0.12 - 0.12.1"]
 GeometricBase = "0.5-0.6"
@@ -98,7 +98,7 @@ GeometricEquations = "0.18"
 ["0.14 - 0.14.8"]
 GeometricBase = "0.10.11-0.10"
 
-["0.14.10 - 0"]
+["0.14.10 - 0.17"]
 Documenter = "1"
 
 ["0.14.11 - 0.15.1"]
@@ -120,33 +120,111 @@ GeometricEquations = "0.18.2-0.18"
 Documenter = ["0.25 - 0.27", "1"]
 
 ["0.14.9 - 0"]
-GenericLinearAlgebra = "0.2 - 0.3"
-GeometricSolutions = "0.5"
 julia = "1.10.0 - 1"
 
 ["0.14.9 - 0.14"]
 GeometricBase = "0.11"
 GeometricEquations = "0.19"
 
-["0.15 - 0"]
+["0.14.9 - 0.15"]
+GenericLinearAlgebra = "0.2 - 0.3"
+GeometricSolutions = "0.5"
+
+["0.15"]
 GeometricBase = "0.12"
 
 ["0.15.0"]
 GeometricEquations = "0.20"
 GeometricIntegratorsBase = "0.1"
 
-["0.15.1 - 0"]
+["0.15.1 - 0.15"]
 GeometricEquations = "0.20.3 - 0.20"
+
+["0.15.1 - 0.15.4"]
 GeometricIntegratorsBase = "0.1.3 - 0.1"
 
 ["0.15.2"]
 SimpleSolvers = "0.6"
 
-["0.15.3 - 0"]
+["0.15.3 - 0.15.4"]
 SimpleSolvers = "0.6 - 0.7"
 
 ["0.15.4 - 0"]
 PrettyTables = "2 - 3"
+
+["0.15.5 - 0.15"]
+GeometricIntegratorsBase = "0.1.10 - 0.1"
+SimpleSolvers = "0.7"
+
+["0.16 - 0"]
+GeometricEquations = "0.21"
+LinearAlgebra = "1"
+
+["0.16 - 0.16.1"]
+GeometricSolutions = "0.6"
+
+["0.16 - 0.16.2"]
+GeometricIntegratorsBase = "0.2"
+
+["0.16 - 0.16.3"]
+SimpleSolvers = "0.7 - 0.8"
+
+["0.16 - 0.17"]
+GenericLinearAlgebra = "0.2 - 0.4"
+GeometricBase = "0.14"
+
+["0.16.10 - 0.17"]
+SharedArrays = "1"
+Test = "1"
+
+["0.16.2 - 0.16.6"]
+GeometricSolutions = "0.6.3 - 0.6"
+
+["0.16.3 - 0.16.5"]
+GeometricIntegratorsBase = "0.2 - 0.3"
+
+["0.16.3 - 0.17"]
+Parameters = "0.12 - 0.13"
+
+["0.16.4 - 0.16"]
+SimpleSolvers = "0.9"
+
+["0.16.6 - 0.16"]
+GeometricIntegratorsBase = "0.3 - 0.4"
+
+["0.16.7 - 0"]
+GeometricSolutions = "0.6.5 - 0.6"
+
+["0.16.9 - 0.17"]
+RungeKutta = "0.5.23 - 0.5"
+
+["0.17"]
+GeometricIntegratorsBase = "0.5.1 - 0.5"
+
+["0.17 - 0.18.0"]
+SimpleSolvers = "0.10"
+
+["0.18 - 0"]
+CompactBasisFunctions = "0.3"
+GeometricBase = "0.14.8 - 0.14"
+QuadratureRules = "0.2"
+RungeKutta = "0.6"
+
+["0.18.0"]
+GeometricIntegratorsBase = "0.5.2 - 0.5"
+
+["0.18.1"]
+GeometricIntegratorsBase = "0.6"
+SimpleSolvers = "0.11"
+
+["0.18.2 - 0"]
+GeometricIntegratorsBase = "0.6.3 - 0.6"
+
+["0.18.2 - 0.18.3"]
+SimpleSolvers = "0.12.1 - 0.12"
+
+["0.18.4 - 0"]
+SimpleSolvers = "0.12.1 - 0.13"
 
 ["0.2"]
 DecFP = "0.4.7-0.4"
@@ -195,7 +273,7 @@ DecFP = "0.4.9-0.4"
 DelimitedFiles = "1.3.0-1"
 julia = "1.3.0-1"
 
-["0.3 - 0"]
+["0.3 - 0.16.2"]
 Parameters = "0.12"
 
 ["0.3 - 0.4"]
@@ -245,7 +323,7 @@ Documenter = "0.23-0.26"
 ["0.6.2 - 0.9.1"]
 GenericLinearAlgebra = "0.2"
 
-["0.7 - 0"]
+["0.7 - 0.17"]
 CompactBasisFunctions = "0.2"
 QuadratureRules = "0.1"
 

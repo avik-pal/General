@@ -1,6 +1,5 @@
 [0]
 Flatten = "0.4"
-IfElse = "0.1"
 NLsolve = "4"
 RecipesBase = "1"
 Reexport = "1"
@@ -18,6 +17,9 @@ Interpolations = "0.14"
 ForwardDiff = "0.10"
 julia = "1.6.0-1"
 
+["0 - 0.9.6"]
+IfElse = "0.1"
+
 ["0.2 - 0.9.3"]
 Setfield = ["0.6-0.8", "1"]
 
@@ -34,4 +36,9 @@ Interpolations = "0.14-0.15"
 ForwardDiff = ["0.10", "1"]
 Interpolations = "0.14 - 0.16"
 Setfield = ["0.6 - 0.8", "1"]
+
+["0.9.4 - 0.9.5"]
 julia = "1.6.0 - 1"
+
+["0.9.6 - 0"]
+julia = "1.7.0 - 1"

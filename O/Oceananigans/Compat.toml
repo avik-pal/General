@@ -25,8 +25,17 @@ KernelAbstractions = "0.9.39 - 0.9"
 ["0.102 - 0"]
 Pkg = ["0.0.0", "1"]
 
+["0.104.1 - 0"]
+julia = "1.10.0 - 1"
+
 ["0.11"]
 OrderedCollections = "0.0.0-1"
+
+["0.110.20 - 0"]
+SeawaterPolynomials = "0.3 - 0.4"
+
+["0.110.5 - 0"]
+BFloat16s = "0.6.1 - 0.6"
 
 ["0.12 - 0"]
 FFTW = "1"
@@ -438,12 +447,9 @@ MPI = "0.16 - 0.20"
 OffsetArrays = "1.4.0 - 1"
 OrderedCollections = "1.1.0 - 1"
 Printf = "1.9.0 - 1"
-Random = "1.9.0 - 1"
-SeawaterPolynomials = "0.3.9 - 0.3"
 SparseArrays = "1.9.0 - 1"
 Statistics = "1.9.0 - 1"
 StructArrays = "0.4 - 0.7"
-julia = "1.9.0 - 1"
 
 ["0.96.34 - 0.100"]
 KernelAbstractions = "0.9.21 - 0.9"
@@ -453,6 +459,15 @@ CubedSphere = "0.2 - 0.3"
 
 ["0.96.34 - 0.101"]
 GPUArrays = ["10.3.0 - 10", "11.2.2 - 11"]
+
+["0.96.34 - 0.103"]
+Random = "1.9.0 - 1"
+
+["0.96.34 - 0.104.0"]
+julia = "1.9.0 - 1"
+
+["0.96.34 - 0.110.19"]
+SeawaterPolynomials = "0.3.9 - 0.3"
 
 ["0.96.34 - 0.96"]
 CUDA = "5.7.0 - 5"

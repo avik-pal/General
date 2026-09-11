@@ -18,3 +18,31 @@ TiffImages = "731e570b-9d59-4bfa-96dc-6df516fadf69"
 
 ["0.2.1 - 0"]
 SQLite = "0aa819cd-b072-5ff4-a722-6bc24af294d9"
+
+["0.2.12 - 0"]
+JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
+
+["0.2.2 - 0"]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
+GMT = "5752ebe1-31b9-557e-87aa-f909b540aa54"
+Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+ZipFile = "a5390f91-8eb1-5f08-bee0-b1d1ffed6cea"
+
+["0.2.3 - 0"]
+DSP = "717857b8-e6f2-59f4-9121-6e50c889abd2"
+LibCURL_jll = "deac9b47-8bc7-5906-a0fe-35ac56dc84c0"
+
+["0.2.5 - 0"]
+GLM = "38e38edf-8417-5370-95a0-9cbb8c7f171a"
+
+["0.2.7 - 0"]
+LanguageServer = "2b0e0bc5-e4fd-59b4-8912-456d1b03d8d7"
+
+["0.2.8 - 0"]
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+PrecompileTools = "aea7be01-6a6a-4083-8856-8a6e6704d82a"

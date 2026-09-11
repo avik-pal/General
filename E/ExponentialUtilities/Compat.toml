@@ -34,7 +34,7 @@ SnoopPrecompile = "1"
 ["1.24 - 1.25"]
 ArrayInterface = "7"
 
-["1.25 - 1"]
+["1.25 - 1.35.0"]
 PrecompileTools = "1"
 
 ["1.26 - 1.27"]
@@ -49,7 +49,6 @@ julia = "1.10.0-1"
 GPUArraysCore = "0.1-0.2"
 
 ["1.28 - 1"]
-Adapt = "3.4.0 - 4"
 ArrayInterface = "7.1.0 - 7"
 GPUArraysCore = "0.1 - 0.2"
 GenericSchur = "0.5.3 - 0.5"
@@ -57,6 +56,28 @@ LinearAlgebra = "1.10.0 - 1"
 Printf = "1.10.0 - 1"
 SparseArrays = "1.10.0 - 1"
 julia = "1.10.0 - 1"
+
+["1.28 - 1.33.0"]
+Adapt = "3.4.0 - 4"
+
+["1.31.1 - 1.33.1"]
+LinearSolve = "4.1.0 - 4"
+
+["1.33.1 - 1"]
+Adapt = "4.3.0 - 4"
+
+["1.33.2 - 1.35.0"]
+LinearSolve = "4.1.0 - 5"
+
+["1.34 - 1"]
+SciMLPublic = "1"
+
+["1.35 - 1"]
+PureGebal = "1"
+
+["1.35.1 - 1"]
+LinearSolve = "5"
+PrecompileTools = "1.2.1 - 1"
 
 ["1.5 - 1.10"]
 julia = "1"

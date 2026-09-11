@@ -67,12 +67,43 @@ DocStringExtensions = "0.9.3 - 0.9"
 Latexify = "0.16.7 - 0.16"
 Proj = "1.8.0 - 1"
 SciMLBase = "2.90.0 - 2"
-Symbolics = "6.37.1 - 6"
 julia = "1.10.0 - 1"
 
-["0.14 - 0"]
+["0.13.2 - 0.14"]
+Symbolics = "6.37.1 - 6"
+
+["0.14"]
 EarthSciMLBase = "0.24"
 ModelingToolkit = "10.10.0 - 10"
+
+["0.15"]
+TestItemRunner = "1.1.0 - 1"
+
+["0.15 - 0"]
+ConservativeRegridding = "0.1"
+JLD2 = "0.5 - 0.6"
+ModelingToolkit = "11"
+Symbolics = "7"
+
+["0.15 - 0.15.8"]
+EarthSciMLBase = "0.25"
+
+["0.15.2 - 0"]
+CodecZlib = "0.7"
+JSON3 = "1.14.3 - 1"
+ZipFile = "0.10"
+
+["0.15.7 - 0"]
+TiffImages = "0.11.8 - 0.11"
+
+["0.15.9 - 0.15"]
+EarthSciMLBase = "0.25.3 - 0.25"
+
+["0.16 - 0.16.1"]
+EarthSciMLBase = "0.25.8 - 0.25"
+
+["0.16.2 - 0"]
+EarthSciMLBase = "0.25.12 - 0.25"
 
 ["0.2.0"]
 Latexify = "0.16"

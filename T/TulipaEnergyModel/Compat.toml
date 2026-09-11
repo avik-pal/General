@@ -33,22 +33,34 @@ JSON = "0.21.4-0.21"
 TulipaIO = "0.5"
 
 ["0.17 - 0"]
-DuckDB_jll = "1.2.1 - 1"
 julia = "1.10.0 - 1"
 
 ["0.17 - 0.18.0"]
 JSON = "0.21.4 - 0.21"
 
+["0.17 - 0.20"]
+DuckDB_jll = "1.2.1 - 1"
+
 ["0.18.1 - 0"]
 JSON = ["0.21.4 - 0.21", "1"]
 
-["0.19 - 0"]
+["0.19 - 0.20"]
 ParametricOptInterface = ["0.12.1 - 0.12", "0.14"]
 
 ["0.2 - 0.11"]
 Graphs = "1.8.0-1"
 
-["0.4 - 0"]
+["0.21 - 0"]
+ParametricOptInterface = ["0.12.1 - 0.12", "0.14 - 0.15"]
+
+["0.22 - 0"]
+OrderedCollections = "1 - 2"
+
+["0.23 - 0"]
+Dates = "1"
+TimerOutputs = ["0.5", "1.1.0 - 1"]
+
+["0.4 - 0.20"]
 SparseArrays = "1"
 
 ["0.5.0"]
@@ -60,6 +72,8 @@ MetaGraphsNext = "0.6-0.7"
 ["0.5.2 - 0"]
 MathOptInterface = "1"
 TOML = "1"
+
+["0.5.2 - 0.22"]
 TimerOutputs = "0.5"
 
 ["0.5.2 - 0.6.1"]
@@ -69,8 +83,10 @@ GraphMakie = "0.5"
 Plots = "1"
 
 ["0.6.2 - 0"]
-OrderedCollections = "1"
 Statistics = "1"
+
+["0.6.2 - 0.21"]
+OrderedCollections = "1"
 
 ["0.9 - 0.10.0"]
 DuckDB = ["0.10", "1"]

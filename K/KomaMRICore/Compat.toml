@@ -20,6 +20,30 @@ julia = "1.6.0-1"
 ["0 - 0.9.0"]
 Functors = "0.4"
 
+["0.10"]
+KomaMRIBase = "0.10"
+
+["0.11 - 0.11.3"]
+KomaMRIBase = "0.11"
+
+["0.11.4 - 0.11"]
+KomaMRIBase = "0.11 - 0.12"
+
+["0.12.0"]
+KomaMRIBase = "0.13"
+
+["0.12.1"]
+KomaMRIBase = "0.13.3 - 0.13"
+
+["0.12.2 - 0"]
+PrecompileTools = "1"
+
+["0.12.2 - 0.12"]
+KomaMRIBase = "0.13.4 - 0.13"
+
+["0.13 - 0"]
+KomaMRIBase = "0.14"
+
 ["0.8"]
 CUDA = "3-5"
 KomaMRIBase = "0.8"
@@ -49,5 +73,5 @@ julia = "1.10.0 - 1"
 ["0.9.5"]
 KomaMRIBase = "0.9.4 - 0.9"
 
-["0.9.6 - 0"]
+["0.9.6 - 0.9"]
 KomaMRIBase = "0.9.7 - 0.9"

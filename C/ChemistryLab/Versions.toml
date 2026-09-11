@@ -12,3 +12,81 @@ git-tree-sha1 = "888ee0564849213aabc42aa55b68a70e0c47b6d6"
 
 ["0.1.5"]
 git-tree-sha1 = "f0e93abe6e0411682e29752bb45ba7b6000bfa44"
+
+["0.1.6"]
+git-tree-sha1 = "84faeaf6a0d231244355e3fa55b9c37cba3ee4cc"
+
+["0.2.0"]
+git-tree-sha1 = "d8ecab0c3e58010751cf6fc1fc16a51dd767f3ac"
+
+["0.2.1"]
+git-tree-sha1 = "ad41cf59cfcf66ac1afd6785c30a42e7db72a545"
+
+["0.2.2"]
+git-tree-sha1 = "def10e71ed596663217deeb6ebc7861ccdb5a65c"
+
+["0.2.3"]
+git-tree-sha1 = "04ae11ebceea4f40b1e22d335f244903c092a368"
+
+["0.3.0"]
+git-tree-sha1 = "7466ca5ea437a4bd82c1ee5a2fb97f51d838d7e4"
+
+["0.3.1"]
+git-tree-sha1 = "f019b02641ada5076465934b3b5022ac92b6da16"
+
+["0.4.0"]
+git-tree-sha1 = "c7179efc2d81d0fb5a7fb2c6a053bf8c40d1ac0a"
+
+["0.5.0"]
+git-tree-sha1 = "d6275db6739049f800f8581a0f5c912ee6b07399"
+
+["0.6.0"]
+git-tree-sha1 = "06b173710b490d61627543ebf18fd64ad8fc1fd5"
+
+["0.7.0"]
+git-tree-sha1 = "5de0e8270c640b507539e9af812a69bd0b911531"
+
+["0.7.1"]
+git-tree-sha1 = "9447030ebfa4d09fac90e3287221cb7b658980f4"
+
+["0.8.0"]
+git-tree-sha1 = "85f80128f40eff70fd9e7dac7741564b95284f70"
+
+["0.8.1"]
+git-tree-sha1 = "a9acc44e782d48e0160721ff03cd3a315e978572"
+
+["0.9.0"]
+git-tree-sha1 = "93694f6e88d719b884e9c596aead0544f252a15a"
+
+["0.10.0"]
+git-tree-sha1 = "1182f0e8f2b566bd7024289c4985970cb25f99e5"
+
+["0.11.0"]
+git-tree-sha1 = "6f81aa32638dd1fde882783c1de8a13485597297"
+
+["0.12.0"]
+git-tree-sha1 = "61309b731220c65a0d7afac8d410f4ef7c825bc4"
+
+["0.13.0"]
+git-tree-sha1 = "e7c5303910d6b7eb520f9a1cdbca150bd2a99494"
+
+["0.14.0"]
+git-tree-sha1 = "89b34c6915fc7ab4f0ab2ece430db40458b00caa"
+
+["0.14.1"]
+git-tree-sha1 = "7304f1d32b561ae002ddf2740d0b75cf867aab90"
+
+["0.14.2"]
+git-tree-sha1 = "c5d0004790a8bbd5ecf5e4019dbb6894c050b387"
+
+["0.15.0"]
+git-tree-sha1 = "27280359e9f6dc9bb29faff56e00e15ddf6ea9fc"
+
+["0.15.1"]
+git-tree-sha1 = "c43efaefc33b3e582c6b1840791c8ba864894a5a"
+
+["0.15.2"]
+git-tree-sha1 = "bc3e99f5289e7f2a5705c23047db66c4be8576e2"
+
+["0.16.0"]
+git-tree-sha1 = "cb1facb1a074b962ae535bff8aa28456f35f8408"

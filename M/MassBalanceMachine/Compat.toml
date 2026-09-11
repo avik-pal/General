@@ -1,0 +1,49 @@
+[0]
+CSV = "0.10"
+DataFrames = "1"
+Infiltrator = "1"
+JLD2 = "0.6"
+Lux = "1"
+NCDatasets = "0.14"
+Reexport = "1"
+
+["0 - 0.1"]
+Muninn = "0.10"
+Sleipnir = "0.13"
+
+["0 - 0.1.0"]
+JSON = "1"
+
+["0 - 0.1.1"]
+julia = "1.11.0 - 1"
+
+["0 - 0.3"]
+Revise = "3"
+
+["0.1.1 - 0"]
+JSON = ["0.21", "1"]
+
+["0.1.2 - 0.3"]
+Downloads = "1.6.0 - 1"
+Pkg = "1.10.0 - 1"
+julia = "1.10.0 - 1"
+
+["0.2.0"]
+Muninn = "0.11"
+Sleipnir = "0.14"
+
+["0.2.1 - 0.2"]
+Muninn = "0.12"
+Sleipnir = "0.15"
+
+["0.3"]
+Muninn = "0.13"
+Sleipnir = "0.16"
+
+["0.4 - 0"]
+Downloads = "1"
+Muninn = "0.14"
+Pkg = "1.11.0 - 1"
+Sleipnir = "0.17"
+Statistics = "1"
+julia = "1.11.0 - 1"

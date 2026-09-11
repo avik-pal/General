@@ -35,3 +35,20 @@ DimensionalData = "0703355e-b756-11e9-17c0-8b28908087d0"
 
 ["0.1.7 - 0"]
 PrettyTables = "08abe8d2-0d0c-5749-adfa-8a2ac140af0d"
+
+["0.1.8 - 0"]
+NamedDims = "356022a1-0364-5f58-8944-0da4b18d706f"
+OrderedCollections = "bac558e1-5e72-5ebc-8fee-abe8a469f55d"
+Static = "aedffcd0-7271-4cad-89d0-dc628f76c6d3"
+YAML = "ddb6d928-2868-570f-bddf-ab3f9cf99eb6"
+
+["0.2 - 0"]
+GPUArraysCore = "46192b85-c4d5-4398-a991-12ede77f4527"
+Optimization = "7f7a1694-90dd-40f0-9382-eb1efda571ba"
+
+["0.2.1 - 0"]
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
+NNlib = "872c559c-99b0-510c-b3b7-b6c96a88d5cd"

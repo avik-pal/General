@@ -6,3 +6,24 @@ git-tree-sha1 = "e04a8e3fcf5d1108a2aa09dacc5261da7c83b7c5"
 
 ["0.3.0"]
 git-tree-sha1 = "209cfbc9f0a3add104cfb2b8cccf3c64e5e04722"
+
+["0.4.0"]
+git-tree-sha1 = "1da08fbd9a106e9896f19b723eb7d2472bc1a8de"
+
+["0.4.1"]
+git-tree-sha1 = "21de1f65e21b82dd0d45eb1dff3584c9f0e219f1"
+
+["0.4.2"]
+git-tree-sha1 = "2d9720135a3b1fc739e8fce0dce36b47ee0fc700"
+
+["0.5.0"]
+git-tree-sha1 = "185f45b47e83e79e8b4084239b2d725c678b4a25"
+
+["0.6.0"]
+git-tree-sha1 = "ae4d38da1b792c79e8062851e1cf6c39ce1b8691"
+
+["0.7.0"]
+git-tree-sha1 = "a601dccdd43fd0a8b18e63f3b771273817af49eb"
+
+["0.7.1"]
+git-tree-sha1 = "ac019faa50eafbb7b14854b8c5982c8f0c835f7f"

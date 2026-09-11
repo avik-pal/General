@@ -11,8 +11,10 @@ Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
 ["0.10 - 0"]
-Requires = "ae029012-a4dd-5104-9daa-d747884805df"
 Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
+
+["0.10 - 0.20.24"]
+Requires = "ae029012-a4dd-5104-9daa-d747884805df"
 
 ["0.12 - 0"]
 DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
@@ -31,6 +33,9 @@ MPItrampoline_jll = "f1f71cc9-e9ae-5b93-9b94-4fe0e1ad3748"
 
 ["0.20.11 - 0"]
 PkgVersion = "eebad327-c553-4316-9ea0-9fa01ccd7688"
+
+["0.20.24 - 0"]
+MPIABI_jll = "b5ada748-db0f-5fc0-8972-9331c762740c"
 
 ["0.20.9 - 0"]
 PrecompileTools = "aea7be01-6a6a-4083-8856-8a6e6704d82a"

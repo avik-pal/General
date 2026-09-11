@@ -80,10 +80,55 @@ cuQuantum_jll = "25.6.0 - 25"
 
 ["1.4 - 1"]
 CEnum = "0.2 - 0.5"
-CUDA = "5.9"
 CUDA_Runtime_Discovery = ["0.2 - 0.3", "1"]
-cuTENSOR = "2.2.0 - 2"
 julia = "1.10.0 - 1"
 
-["1.5 - 1"]
+["1.4 - 1.5.0"]
+CUDA = "5.9"
+cuTENSOR = "2.2.0 - 2"
+
+["1.5.0"]
 cuQuantum_jll = "25.11.0 - 25"
+
+["1.5.1 - 1"]
+CUDA = "5.11"
+cuQuantum_jll = "26.1.0 - 26"
+cuTENSOR = "2.3.1 - 2"
+
+[6]
+CEnum = "0.2 - 0.5"
+LinearAlgebra = "1"
+cuQuantum_jll = "26.1.0 - 26"
+julia = "1.10.0 - 1"
+
+["6.0"]
+CUDACore = "6.0.1"
+CUDA_Runtime_Discovery = ["0.2 - 0.3", "1"]
+cuTENSOR = "6.0.0"
+
+["6.1"]
+CUDACore = "6.1.1"
+cuTENSOR = "6.1.0"
+
+["6.1 - 6"]
+CUDA_Runtime_Discovery = "2"
+
+["6.2.0"]
+CUDACore = "6.2.0"
+cuTENSOR = "6.2.0"
+
+["6.2.1"]
+CUDACore = "6.2.1"
+cuTENSOR = "6.2.1"
+
+["6.2.2 - 6.2"]
+CUDACore = "6.2.2"
+cuTENSOR = "6.2.2"
+
+["6.3.0"]
+CUDACore = "6.3.0"
+cuTENSOR = "6.3.0"
+
+["6.3.1 - 6"]
+CUDACore = "6.3.1"
+cuTENSOR = "6.3.1"

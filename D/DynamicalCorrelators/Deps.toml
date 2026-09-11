@@ -15,8 +15,19 @@ Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
 ["0.1.7 - 0"]
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
 
+["0.10 - 0"]
+BlockTensorKit = "5f87ffc2-9cf1-4a46-8172-465d160bd8cd"
+
+["0.14 - 0"]
+MatrixAlgebraKit = "6c742aac-3347-4629-af66-fc926824e5e4"
+SerializedElementArrays = "d3ce8812-9567-47e9-a7b5-65a6d70a3065"
+
 ["0.4.1 - 0"]
 NumericalIntegration = "e7bfaba1-d571-5449-8927-abc22e82249b"
 
 ["0.5 - 0"]
 TensorOperations = "6aa20fa7-93e2-5fca-9bc0-fbd0db3c71a2"
+
+["0.7 - 0"]
+Preferences = "21216c6a-2e73-6563-6e65-726566657250"
+TimerOutputs = "a759f4b9-e2f1-59dc-863e-4aeb61b1ea8f"

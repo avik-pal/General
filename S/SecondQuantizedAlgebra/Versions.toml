@@ -21,3 +21,81 @@ git-tree-sha1 = "8df9feeb98d565070d794ef1986b2918d013aca5"
 
 ["0.4.3"]
 git-tree-sha1 = "0f4530bbc86503fc8ee13a1e921dc9aa1c093760"
+
+["0.4.4"]
+git-tree-sha1 = "7275b4564cef18ce2b0b4b8ca98e772cc2cbbc45"
+
+["0.4.5"]
+git-tree-sha1 = "30362a30ebf34041645122c11dc1eb63c03f06b8"
+
+["0.5.0"]
+git-tree-sha1 = "c65dfd8033567826a727cec293c3c02b6a725627"
+
+["0.5.1"]
+git-tree-sha1 = "76b426cd14c376cf8fba5a49dbc70d26ecb11a12"
+
+["0.5.2"]
+git-tree-sha1 = "8fa34a72f3e8df97dff4c4b7041b943a21d03200"
+
+["0.6.0"]
+git-tree-sha1 = "f956098e8ebef21c322c2716732af0e41bd278bd"
+
+["0.6.1"]
+git-tree-sha1 = "f955e67967d42394e021a0b556b7e0046a354975"
+
+["0.6.2"]
+git-tree-sha1 = "44166998ef8efa5da5c3e23332d83a491fec927e"
+
+["0.6.3"]
+git-tree-sha1 = "4c5551ab08a462dc7dbdf5dfcb6e80dd499465f7"
+
+["0.6.4"]
+git-tree-sha1 = "5e7edc8b8ac4fc428729d925482f55023ac666fa"
+
+["0.6.5"]
+git-tree-sha1 = "9b59d4174eae97ec8a75c8a4938cd23ab7c6de37"
+
+["0.7.0"]
+git-tree-sha1 = "dba7e532e52794d18af10491dbc129a4896b3072"
+
+["0.7.1"]
+git-tree-sha1 = "1b906f9a54917654b3fd115f8439329a44e7b0b2"
+
+["0.7.2"]
+git-tree-sha1 = "3ad682b37a232dc3d9cab78c3866eed6cb1de488"
+
+["0.8.0"]
+git-tree-sha1 = "f8ae7c5b7b10a2a7c82626ccbddb8f5d449faa4b"
+
+["0.8.1"]
+git-tree-sha1 = "661b59e886ca9081d219c3d4726c7d5920811793"
+
+["0.8.2"]
+git-tree-sha1 = "56fd87c41c2028345e470423abb1dda711618fa4"
+
+["0.9.0"]
+git-tree-sha1 = "ed698182b2408f0e4c9b7777cf53c5c93720be2a"
+
+["0.9.1"]
+git-tree-sha1 = "a0e112fc6539e84abbad35f3a15a7d0e3ecffc00"
+
+["0.9.2"]
+git-tree-sha1 = "5a931454a29956e4dab34331e002aef77460a1e5"
+
+["0.9.3"]
+git-tree-sha1 = "31e752af5c3776fb9898571f05cb13066a63143c"
+
+["0.9.4"]
+git-tree-sha1 = "7198d2fda34ceedefd8d15efb2f255e611f9a378"
+
+["0.10.0"]
+git-tree-sha1 = "8d8f0d59db5228481d772105117a9f6dbbaaad3a"
+
+["0.10.1"]
+git-tree-sha1 = "9d4c97737fd63ba3c268cbcaca2a744aa1cce674"
+
+["0.11.0"]
+git-tree-sha1 = "200ce3b2e5db77a2e0b8e0271c93c21d49d495bf"
+
+["0.12.0"]
+git-tree-sha1 = "2263e0001e88d93719d4915e4578a19fd0279240"

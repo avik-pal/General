@@ -1,0 +1,111 @@
+["0 - 0.2"]
+SpeedyWeather = "0.17.4 - 0.17"
+
+["0 - 0.2.0"]
+Reactant = "0.2.45 - 0.2"
+
+["0 - 0.4.0"]
+XESMF = "0.1.6 - 0.1"
+
+["0 - 0.5.6"]
+CopernicusMarine = "0.1.1 - 0.1"
+
+["0.1.3 - 0"]
+CondaPkg = "0.2.33 - 0.2"
+PythonCall = "0.9.28 - 0.9"
+
+["0.2.0"]
+Breeze = "0.3.3 - 0.3"
+
+["0.2.1"]
+CDSAPI = "2"
+
+["0.2.1 - 0"]
+WorldOceanAtlasTools = "0.6"
+
+["0.2.1 - 0.2.2"]
+Breeze = "0.4"
+
+["0.2.1 - 0.4"]
+Reactant = "0.2.235 - 0.2"
+
+["0.2.2 - 0"]
+CDSAPI = "2.2.1 - 2"
+
+["0.2.3 - 0.2"]
+Breeze = "0.4.4 - 0.4"
+
+["0.3 - 0.4.0"]
+Breeze = "0.4"
+SpeedyWeather = "0.19"
+
+["0.4 - 0"]
+ArchGDAL = "0.10"
+
+["0.4.1 - 0.5.3"]
+Breeze = "0.4 - 0.5"
+ConservativeRegridding = "0.2 - 0.3"
+
+["0.4.1 - 0.5.6"]
+SpeedyWeather = "0.20"
+
+["0.5 - 0.5.7"]
+Reactant = "0.2.235 - 0.2.255"
+
+["0.5.4 - 0.5.5"]
+ConservativeRegridding = "0.2.3 - 0.2"
+
+["0.5.5"]
+Breeze = "0.5.3 - 0.5"
+
+["0.5.5 - 0.5"]
+RRTMGP = "0.21.9 - 0.21"
+
+["0.5.6 - 0"]
+ConservativeRegridding = "0.2"
+
+["0.5.6 - 0.5.8"]
+Breeze = "0.5.3 - 0.6"
+
+["0.5.7 - 0"]
+CopernicusMarine = "0.2"
+Zarr = "0.10"
+
+["0.5.7 - 0.6.1"]
+SpeedyWeather = "0.20 - 0.21"
+
+["0.5.8"]
+Reactant = "0.2.235 - 0.2.268"
+
+["0.5.8 - 0.6.0"]
+CopernicusClimateDataStore = "0.1"
+
+["0.5.9 - 0"]
+GeoInterface = "1"
+Makie = "0.24"
+NaturalEarth = "0.1"
+
+["0.5.9 - 0.5"]
+Reactant = "0.2.270 - 0.2"
+
+["0.5.9 - 0.6.0"]
+Breeze = "0.5.3 - 0.7"
+
+["0.6 - 0"]
+RRTMGP = "0.21.9 - 0.22"
+
+["0.6.0"]
+Reactant = "0.2.274 - 0.2"
+
+["0.6.1"]
+Breeze = ["0.5.3 - 0.6", "0.8"]
+CopernicusClimateDataStore = "0.2"
+
+["0.6.1 - 0"]
+GDAL = "1.7.0 - 1"
+Reactant = "0.2.278 - 0.2"
+
+["0.6.2 - 0"]
+Breeze = ["0.5.3 - 0.6", "0.8 - 0.9"]
+CopernicusClimateDataStore = "0.2.2 - 0.2"
+SpeedyWeather = "0.22"

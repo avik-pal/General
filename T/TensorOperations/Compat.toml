@@ -108,15 +108,39 @@ LinearAlgebra = "1.6.0 - 1"
 PrecompileTools = "1.1.0 - 1"
 Preferences = "1.4.0 - 1"
 PtrArrays = "1.2.0 - 1"
-Strided = "2.2.0 - 2"
-StridedViews = "0.3 - 0.4"
 TupleTools = "1.6.0 - 1"
-VectorInterface = "0.4.1 - 0.5"
-cuTENSOR = "2.1.1 - 2"
-julia = "1.8.0 - 1"
 
 ["5.2.1 - 5.3"]
 CUDA = "5.4.0 - 5"
 
-["5.4 - 5"]
+["5.2.1 - 5.4"]
+julia = "1.8.0 - 1"
+
+["5.2.1 - 5.5"]
+Strided = "2.2.0 - 2"
+StridedViews = "0.3 - 0.4"
+cuTENSOR = "2.1.1 - 2"
+
+["5.2.1 - 5.6.0"]
+VectorInterface = "0.4.1 - 0.5"
+
+["5.4 - 5.5"]
 CUDA = "5"
+
+["5.5 - 5"]
+julia = "1.10.0 - 1"
+
+["5.6 - 5"]
+StridedViews = "0.5"
+
+["5.6.0"]
+Strided = "2.4.0 - 2"
+
+["5.6.1"]
+Strided = "2.5.0 - 2"
+
+["5.6.1 - 5"]
+VectorInterface = "0.4.1 - 0.6"
+
+["5.6.2 - 5"]
+Strided = "2.6.0 - 2"

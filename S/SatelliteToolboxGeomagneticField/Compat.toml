@@ -4,8 +4,10 @@ julia = "1.6.0-1"
 
 ["0 - 1"]
 ReferenceFrameRotations = "3"
-SatelliteToolboxLegendre = "1"
 StaticArrays = "1"
+
+["0 - 1.3.0"]
+SatelliteToolboxLegendre = "1"
 
 ["0.1.2 - 0"]
 LinearAlgebra = "1.6.0-1"
@@ -17,7 +19,16 @@ SatelliteToolboxTransformations = "1"
 LinearAlgebra = "1.10.0-1"
 julia = "1.10.0-1"
 
-["1.2 - 1"]
+["1.2"]
 LinearAlgebra = "1.10.0 - 1"
+
+["1.2 - 1"]
 SatelliteToolboxBase = "1.1.0 - 1"
 julia = "1.10.0 - 1"
+
+["1.3 - 1"]
+LinearAlgebra = "1"
+
+["1.3.1 - 1"]
+PrecompileTools = "1"
+SatelliteToolboxLegendre = "1.2.0 - 1"

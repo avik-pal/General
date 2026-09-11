@@ -1,15 +1,19 @@
 ["0.11 - 1.10.1"]
 Zygote = "0.6"
 
+["0.15 - 1.10"]
+Optim = ["0.19", "1"]
+
 ["0.15 - 2"]
 Bumper = "0.6"
+
+["0.15 - 2.6"]
 LoopVectorization = "0.12"
-Optim = ["0.19", "1"]
 
 ["0.18 - 0.19.1"]
 SymbolicUtils = ["0.19", "1.0.5-2"]
 
-["0.19.2 - 1"]
+["0.19.2 - 1.10.3"]
 SymbolicUtils = ["0.19", "1.0.5-3"]
 
 ["0.9 - 0.17"]
@@ -18,8 +22,31 @@ SymbolicUtils = ["0.19", "1.0.5-1"]
 ["1.10.2 - 2"]
 Zygote = "0.7"
 
+["1.10.4 - 1"]
+SymbolicUtils = "4"
+
+["1.11 - 1"]
+NLSolversBase = "7 - 8"
+Optim = "1 - 2"
+
+["2 - 2.5.0"]
+Optim = ["0.19", "1"]
+
 ["2.0"]
 SymbolicUtils = ["0.19", "1.0.5-3"]
 
-["2.1 - 2"]
+["2.1 - 2.4"]
 SymbolicUtils = ["0.19", "1.0.5 - 3"]
+
+["2.5 - 2.6"]
+SymbolicUtils = "4"
+
+["2.5.1 - 2.6"]
+NLSolversBase = "7 - 8"
+Optim = "1 - 2"
+
+["2.7 - 2"]
+LoopVectorization = "0.12.174 - 0.12"
+NLSolversBase = "7.10.0 - 8"
+Optim = "1.13.3 - 2"
+SymbolicUtils = "4.35.0 - 4"

@@ -33,7 +33,7 @@ BenchmarkTools = ["0.4-0.7", "1"]
 ["0.9.6 - 0.9.11"]
 BenchmarkTools = "0.4"
 
-["0.9.6 - 1"]
+["0.9.6 - 1.50"]
 OrderedCollections = "1"
 
 ["0.9.8"]
@@ -53,16 +53,18 @@ JSONSchema = "0.2"
 JSON = "0.21"
 
 [1]
-BenchmarkTools = "1"
 MutableArithmetics = "1"
 
 ["1 - 1.41"]
 julia = "1.6.0-1"
 
+["1 - 1.50"]
+BenchmarkTools = "1"
+
 ["1.11.5 - 1.15.0"]
 SnoopPrecompile = "1"
 
-["1.15.1 - 1"]
+["1.15.1 - 1.50"]
 PrecompileTools = "1"
 
 ["1.20 - 1.41"]
@@ -89,15 +91,17 @@ SpecialFunctions = ["0.8", "1-2"]
 ["1.3 - 1.42"]
 DataStructures = "0.18"
 
-["1.35.1 - 1"]
+["1.35.1 - 1.48"]
 JSON3 = "1"
 
-["1.38.1 - 1"]
+["1.38.1 - 1.48"]
 ForwardDiff = ["0.10", "1"]
 
 ["1.42 - 1"]
 CodecBzip2 = "0.6 - 0.8"
 CodecZlib = "0.6 - 0.7"
+
+["1.42 - 1.48"]
 LinearAlgebra = ["0.0.0", "1.6.0 - 1"]
 Printf = ["0.0.0", "1.6.0 - 1"]
 SparseArrays = ["0.0.0", "1.6.0 - 1"]
@@ -107,3 +111,22 @@ julia = "1.6.0 - 1"
 
 ["1.43 - 1.46"]
 DataStructures = "0.18 - 0.19"
+
+["1.49 - 1"]
+ForwardDiff = "1"
+JSON = ["0.21", "1"]
+LinearAlgebra = "1"
+Printf = "1"
+SparseArrays = "1"
+SpecialFunctions = "1 - 2"
+Test = "1"
+julia = "1.10.0 - 1"
+
+["1.51"]
+OrderedCollections = "1.1.0 - 1"
+
+["1.51 - 1"]
+PrecompileTools = "1.0.1 - 1"
+
+["1.52 - 1"]
+OrderedCollections = "1.1.0 - 2"

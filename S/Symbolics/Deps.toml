@@ -18,11 +18,13 @@ DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 MacroTools = "1914dd2f-81c6-5fcd-8719-6d5c9610ff09"
 NaNMath = "77ba4419-2d1f-58cd-9bb1-8ffee604a2e3"
-Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
 RuntimeGeneratedFunctions = "7e49a35a-f44a-4d26-94aa-eba1b4ca6b47"
 SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
 SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
 SymbolicUtils = "d1185830-fcd6-423d-90d6-eec64667417b"
+
+["0 - 7.37"]
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
 
 ["0.1.1 - 7"]
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
@@ -134,3 +136,6 @@ Moshi = "2e0e35c7-a2e4-4343-998d-7ef72827ed2d"
 MultivariatePolynomials = "102ac46a-7ee4-5c85-9060-abc95bfdeaa3"
 MutableArithmetics = "d8a4904e-b15c-11e9-3269-09a3773c0cb0"
 Preferences = "21216c6a-2e73-6563-6e65-726566657250"
+
+["7.31.1 - 7"]
+IntervalSets = "8197267c-284f-5f27-9208-e0e47529a953"

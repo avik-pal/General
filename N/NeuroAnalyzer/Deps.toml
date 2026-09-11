@@ -1,7 +1,6 @@
 [0]
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
-CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
 Cairo = "159f3aea-2a34-519c-b102-8c37f9878175"
 ColorSchemes = "35d6a980-a343-548e-a6ea-1d62b119f2f4"
 ContinuousWavelets = "96eb917e-2868-4417-9cb6-27e7ff17528f"
@@ -16,7 +15,6 @@ FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
 FindPeaks1D = "d8961e24-b28b-4efb-8e50-1c680b9a7431"
 FourierTools = "b18b359b-aebc-45ac-a139-9c0ccbb2871e"
 GLM = "38e38edf-8417-5370-95a0-9cbb8c7f171a"
-GPUArrays = "0c68f7d7-f131-5f86-a1c3-88cf8149b2d7"
 GeometryBasics = "5c1252a2-5f33-56bf-86c9-59e7332b4326"
 Git = "d7ba0133-e1db-5d97-8f8c-041e4b3a1eb2"
 HypothesisTests = "09f84164-cd44-5f33-b23f-e6b0d136a0d5"
@@ -44,7 +42,6 @@ ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 SavitzkyGolay = "c4bf5708-b6a6-4fbe-bcd0-6850ed671584"
 ScatteredInterpolation = "3f865c0f-6dca-5f4d-999b-29fe1e7e3c92"
-Simpson = "8e55fee6-e67b-4637-994c-810009a3f62d"
 StatsFuns = "4c63d2b9-4356-54db-8cca-17b64c39e42c"
 StatsKit = "2cb19f9e-ec4d-5c53-8573-a4542a68d3f0"
 StatsModels = "3eaba693-59b7-5ba5-a881-562e759f1c8d"
@@ -63,6 +60,13 @@ Gtk = "4c0ca9eb-093a-5379-98c5-f87ac0bbbf44"
 
 ["0-0.25.8"]
 CubicSplines = "9c784101-8907-5a6d-9be6-98f00873c89b"
+
+["0-0.26.1"]
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+GPUArrays = "0c68f7d7-f131-5f86-a1c3-88cf8149b2d7"
+
+["0-0.26.3"]
+Simpson = "8e55fee6-e67b-4637-994c-810009a3f62d"
 
 ["0.24.11-0"]
 Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
@@ -89,8 +93,10 @@ Static = "aedffcd0-7271-4cad-89d0-dc628f76c6d3"
 Hurst = "f5425a1d-c389-4276-87b1-4aa2dfb12528"
 
 ["0.25.11-0"]
-AMDGPU = "21141c5a-9bdb-4563-92ae-f87d6854732e"
 Einsum = "b7d42ee7-0b51-5a75-98ca-779d3107e4c0"
+
+["0.25.11-0.26.1"]
+AMDGPU = "21141c5a-9bdb-4563-92ae-f87d6854732e"
 
 ["0.25.12-0"]
 Gtk4 = "9db2cae5-386f-4011-9d63-a5602296539b"
@@ -111,3 +117,8 @@ GR = "28b8d3ca-fb5f-59d9-8090-bfdbd6d07a71"
 
 ["0.25.9-0"]
 Dierckx = "39dd38d3-220a-591b-8e3c-4c3a8c710a94"
+
+["0.26.4-0"]
+FilePaths = "8fc22ac5-c921-52a6-82fd-178b2807b824"
+KernelDensity = "5ab0869b-81aa-558d-bb23-cbf5423bbe9b"
+Trapz = "592b5752-818d-11e9-1e9a-2b8ca4a44cd1"

@@ -1,0 +1,13 @@
+[0]
+MathJSON = "0.2 - 0.3"
+Symbolics = "7"
+
+["0.12 - 0"]
+TermInterface = "2"
+
+["0.14.1 - 0.14.2"]
+ModelContextProtocol = "0.4"
+
+["0.14.3 - 0"]
+LibPARI = "0.17 - 0.18"
+ModelContextProtocol = ["0.4", "0.6"]

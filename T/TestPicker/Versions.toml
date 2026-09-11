@@ -105,3 +105,48 @@ git-tree-sha1 = "ed62582e47d9e99441c4fe74b951daca60dc457c"
 
 ["2.2.0"]
 git-tree-sha1 = "dfd50277e8eabda4bee9375badbc62c39c9f2f21"
+
+["2.2.1"]
+git-tree-sha1 = "0124aba4bd82c0e3c827e859416f9933cc5c04cd"
+
+["2.3.0"]
+git-tree-sha1 = "6fd9aeca6abd7228d3e3bf3dcefa6348cd46c7f3"
+
+["2.3.1"]
+git-tree-sha1 = "44762c079525280c4ab137e58d3187a5872c7b86"
+
+["2.3.2"]
+git-tree-sha1 = "3da0874eaa5946372000bded220a3dac06275a2e"
+
+["2.4.0"]
+git-tree-sha1 = "5ccf5a4a15700ee3d8acf2d94c6b601b5c7b06af"
+
+["2.4.1"]
+git-tree-sha1 = "106cf781ede6706344c5783335f87804c14dab8b"
+
+["2.4.2"]
+git-tree-sha1 = "e0915b2782f772ace759de67a8d8702d578afb75"
+
+["2.5.0"]
+git-tree-sha1 = "9d47ac994e2bc2b938f2daf856016cfac8e2e917"
+
+["2.5.1"]
+git-tree-sha1 = "dbf59cadc498946fd68952c622c5964299a0bd88"
+
+["2.6.0"]
+git-tree-sha1 = "2a49b598a0ef1b5d82c2802576e01f81a9f19c5c"
+
+["2.7.0"]
+git-tree-sha1 = "e0ffc2cdd7c3a08f19bac5891eb014a2634b04d3"
+
+["2.8.0"]
+git-tree-sha1 = "d39acf18f215f028da80613543b98d927967a151"
+
+["2.8.1"]
+git-tree-sha1 = "679f277dc3346af35e18773beee261ffd99dc029"
+
+["2.8.2"]
+git-tree-sha1 = "8f61975fda280c526a752eaba6e840316c227b38"
+
+["2.9.0"]
+git-tree-sha1 = "71d4212340931035bc2ca8b6ae686c06dfdf85ba"

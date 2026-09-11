@@ -128,6 +128,18 @@ LLVMExtra_jll = "0.0.33"
 ["9.1"]
 LLVMExtra_jll = "0.0.34"
 
+["9.11"]
+LLVMExtra_jll = "0.0.44"
+
+["9.12"]
+LLVMExtra_jll = "0.0.45"
+
+["9.13.0"]
+LLVMExtra_jll = "0.0.46"
+
+["9.13.1 - 9"]
+LLVMExtra_jll = "0.0.47"
+
 ["9.2 - 9.3"]
 LLVMExtra_jll = "0.0.35"
 
@@ -145,5 +157,20 @@ Printf = "1.8.0 - 1"
 Unicode = "1.8.0 - 1"
 julia = "1.10.0 - 1"
 
-["9.4.4 - 9"]
+["9.4.4 - 9.4"]
 LLVMExtra_jll = "0.0.38"
+
+["9.5"]
+LLVMExtra_jll = "0.0.40"
+
+["9.5 - 9"]
+PrecompileTools = "1"
+
+["9.6"]
+LLVMExtra_jll = "0.0.41"
+
+["9.7"]
+LLVMExtra_jll = "0.0.42"
+
+["9.8 - 9.10"]
+LLVMExtra_jll = "0.0.43"

@@ -21,8 +21,10 @@ GLM = "38e38edf-8417-5370-95a0-9cbb8c7f171a"
 NLopt = "76087f3c-5699-56af-9a33-bf431cd00edd"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
-StatsFuns = "4c63d2b9-4356-54db-8cca-17b64c39e42c"
 StatsModels = "3eaba693-59b7-5ba5-a881-562e759f1c8d"
+
+["0 - 5.5.1"]
+StatsFuns = "4c63d2b9-4356-54db-8cca-17b64c39e42c"
 
 ["1 - 1.1.6"]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
@@ -65,7 +67,7 @@ Markdown = "d6f4376e-aef5-505a-96c1-9c027394607a"
 ["3.4.1 - 4.22.1"]
 LazyArtifacts = "4af54fe1-eca0-43a8-85a7-787d91b784e3"
 
-["4 - 5"]
+["4 - 5.8.2"]
 JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
 StructTypes = "856f2bd8-1eba-4b0a-8007-ebc267875bd4"
 
@@ -93,3 +95,12 @@ SnoopPrecompile = "66db9d55-30c0-4569-8b51-7e840670fc0c"
 [5]
 Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
 RegressionFormulae = "545c379f-4ec2-4339-9aea-38f2fb6a8ba2"
+
+["5.5.2 - 5"]
+IrrationalConstants = "92d709cd-6900-40b7-9082-c6be49f344b6"
+
+["5.8 - 5"]
+RectangularFullPacked = "27983f2f-6524-42ba-a408-2b5a31c238e4"
+
+["5.8.3 - 5"]
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"

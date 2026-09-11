@@ -1,44 +1,88 @@
-["0-0.1.10"]
+["0 - 0.1.10"]
 DomainSets = "0.5-0.6"
 SymbolicUtils = "1"
 Symbolics = "5"
 
-["0-0.1.4"]
+["0 - 0.1.4"]
 SciMLBase = "1.91.0-1"
 
-["0-0.1.8"]
+["0 - 0.1.8"]
 ModelingToolkit = "8"
 julia = "1.6.0-1"
 
-["0.1.11-0"]
-DomainSets = "0.7"
-SciMLBase = "2"
-julia = "1.10.0-1"
-
-["0.1.11-0.1.13"]
+["0.1.11 - 0.1.13"]
 Symbolics = "5.30.1-5"
 
-["0.1.11-0.1.14"]
+["0.1.11 - 0.1.14"]
 SymbolicUtils = "2"
 
-["0.1.14-0"]
+["0.1.11 - 0.1.19"]
+julia = "1.10.0-1"
+
+["0.1.11 - 0.1.22"]
+SciMLBase = "2"
+
+["0.1.11 - 0.1.24"]
+DomainSets = "0.7"
+
+["0.1.14 - 0.1.19"]
 Symbolics = "5.30.1-6"
 
-["0.1.15-0"]
+["0.1.15 - 0.1.19"]
 SymbolicUtils = "2-3"
 
 ["0.1.18"]
 ModelingToolkit = "10"
 
-["0.1.19-0"]
+["0.1.19"]
 ModelingToolkit = "10.1.0-10"
 SymbolicIndexingInterface = "0.3.40-0.3"
 
-["0.1.5-0.1.10"]
+["0.1.20 - 0"]
+julia = "1.10.0 - 1"
+
+["0.1.20 - 0.1.24"]
+ModelingToolkit = "11"
+PrecompileTools = "1"
+SymbolicIndexingInterface = "0.3.40 - 0.3"
+SymbolicUtils = "4"
+Symbolics = "7"
+
+["0.1.23 - 0.1.24"]
+SciMLBase = ["2", "3.1.0 - 3"]
+
+["0.1.25 - 0"]
+DomainSets = "0.7 - 0.8"
+PrecompileTools = "1.2.1 - 1"
+SymbolicIndexingInterface = "0.3.43 - 0.3"
+SymbolicUtils = "4.31.0 - 4"
+Symbolics = "7.24.0 - 7"
+
+["0.1.25 - 0.1.30"]
+ModelingToolkit = "11.26.7 - 11"
+
+["0.1.25 - 0.1.32"]
+SciMLBase = ["2.149.0 - 2", "3.1.0 - 3"]
+
+["0.1.31 - 0"]
+IntervalSets = "0.7"
+SciMLPublic = "1"
+TermInterface = "2"
+
+["0.1.31 - 0.1.34"]
+ModelingToolkitBase = "1.58.0 - 1"
+
+["0.1.33 - 0"]
+SciMLBase = "3.1.0 - 3"
+
+["0.1.35 - 0"]
+ModelingToolkitBase = "1.69.0 - 1"
+
+["0.1.5 - 0.1.10"]
 SciMLBase = "1.94.0-2"
 
-["0.1.9-0.1.10"]
+["0.1.9 - 0.1.10"]
 julia = "1"
 
-["0.1.9-0.1.17"]
+["0.1.9 - 0.1.17"]
 ModelingToolkit = "9"

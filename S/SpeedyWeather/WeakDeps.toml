@@ -11,8 +11,23 @@ CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
 GeoMakie = "db073c08-6b98-4ee5-b6a4-5efafb3259c6"
 
 ["0.13 - 0"]
-Enzyme = "7da242da-08ed-463a-9acd-ee780be4f1d9"
 FiniteDifferences = "26cc04aa-876d-5657-8c51-4c34ba976000"
+
+["0.13 - 0.17"]
+Enzyme = "7da242da-08ed-463a-9acd-ee780be4f1d9"
 
 ["0.16 - 0"]
 UnicodePlots = "b8865327-cd53-5732-bb35-84acbb429228"
+
+["0.19 - 0"]
+Reactant = "3c362404-f566-11ee-1572-e11a4b42c853"
+
+["0.20.1 - 0"]
+Zarr = "0a941bbe-ad1d-11e8-39d9-ab76183a1d99"
+
+["0.20.2 - 0"]
+Enzyme = "7da242da-08ed-463a-9acd-ee780be4f1d9"
+Terrarium = "80418d68-07fa-499d-ae2b-c12e531f5cd8"
+
+["0.21.1 - 0"]
+Browzarr = "d7a009df-479f-4526-be69-544662986fe6"
